@@ -10,3 +10,7 @@ guess the word.
 3. Looping
 4. Condition Statements
 5. Type Conversion
+
+[Presentation](https://docs.google.com/presentation/d/18B92wjrQbSSKYj4SWtSE-avhrjsolm_0/edit?usp=sharing&ouid=112619291112515924531&rtpof=true&sd=true)
+
+[Report](https://drive.google.com/file/d/1uizAX5XPbHAxMDbCtfzhKExI7MgT1eJ7/view?usp=sharing)
